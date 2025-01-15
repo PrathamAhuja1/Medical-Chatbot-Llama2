@@ -135,6 +135,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+medical
 
 # Spyder project settings
 .spyderproject
@@ -169,3 +170,5 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+model/
