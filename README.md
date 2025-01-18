@@ -56,5 +56,6 @@ medical-chatbot/
 ```bash
 git clone https://github.com/PrathamAhuja1/Medical-Chatbot-Llama2.git
 cd Medical-Chatbot-Llama2
+pip install -r requirements.txt
 python app.py
 ```
