@@ -28,7 +28,7 @@ A specialized medical chatbot built with Llama 2, Pinecone vector database, and 
 - Llama 2 7B chat model (quantized version)
 - Sufficient RAM for running the LLM (minimum 8GB recommended)
 
-##Project Structure
+## Project Structure
 
 ```bash
 medical-chatbot/
