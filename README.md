@@ -4,6 +4,7 @@
 
 A specialized medical chatbot built with Llama 2, Pinecone vector database, and LangChain, designed to provide medical information and answers based on uploaded medical documents.
 
+
 ## Features
 
 - **Medical Knowledge Base**: Processes and stores medical documents for accurate responses
@@ -11,6 +12,7 @@ A specialized medical chatbot built with Llama 2, Pinecone vector database, and 
 - **LLM Integration**: Powered by Llama 2 for natural language understanding
 - **Web Interface**: Flask-based chat interface for easy interaction
 - **Document Processing**: Handles PDF documents for knowledge base creation
+
 
 ## Tech Stack
 
@@ -21,12 +23,14 @@ A specialized medical chatbot built with Llama 2, Pinecone vector database, and 
 - **Web Framework**: Flask
 - **PDF Processing**: PyPDF
 
+
 ## Prerequisites
 
 - Python 3.8 or higher
 - Pinecone API Key
 - Llama 2 7B chat model (quantized version)
 - Sufficient RAM for running the LLM (minimum 8GB recommended)
+
 
 ## Project Structure
 
@@ -45,10 +49,12 @@ medical-chatbot/
 └── templates/
     └── chat.html
 ```
+
 ## Installation
 
 1. Clone the repository:
 ```bash
 git clone https://github.com/PrathamAhuja1/Medical-Chatbot-Llama2.git
-cd medical-chatbot
+cd Medical-Chatbot-Llama2
 python app.py
+```
